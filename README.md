@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=dwelov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196819700%3Fu%3D5084dcb17cc23283c3f78096c390b7b712cfc782%26v%3D4" alt="dwelov hero visual" />
 </p>
 
-**Siraj Ahmed** · Frontend or full-stack engineer
+**Siraj Ahmed** · AIfull-stack engineer
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = AI full-stack engineer
 LOCATION    = remote
 PUBLIC_REPOS = 20
 COMMUNITY   = 3 followers</code></pre>
